@@ -31,5 +31,5 @@ Label the features on the merged datafile as column names.
 
 ###Part 5
 
-Since each of the 30 individuals have 6 activities tested, the final tidy dataset should have 180 rows
+Since each of the 30 individuals have 6 activities tested, the final tidy dataset should have 180 rows.
 Using data.table package introduced in the R Programming course and the lapply() function, obtaining both the mean and SD for each activity and subject.
