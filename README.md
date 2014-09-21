@@ -14,11 +14,11 @@ run_analysis.R can only be run assuming working with a directory containing the 
 
 ###Part 1
 
-Reading both training and test datasets, and merging them into one using rbind() command.
+Reading both training and test datasets, and merging them using rbind() command.
 
 ###Part 2
 
-Using sapply(), we are able to extract both the mean and standard deviation from the merged file in Part 1.
+Using sapply(), we are able to extract both the mean and standard deviation from the merged file in Part 1 in 2 seperate vectors.
 
 ### Part 3
 
@@ -26,7 +26,7 @@ Using the data file which contains the labels of all 6 activities, map the descr
 
 ###Part 4
 
-The "features" file contains the labels for 561 features
+The "features" file contains the labels for 561 features.
 Label the features on the merged datafile as column names.
 
 ###Part 5
